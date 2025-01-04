@@ -59,7 +59,5 @@ CustomLog.Log("This message is italicized.", null, false, true);
 ### Example with Dynamic Color
 `CustomLog.Log("This message will be green.", ColorCode.Green);`
 
-##
-This README provides detailed instructions for setting up and using your custom logging system, including how to format logs, configure settings, and customize it for different purposes.
 
 

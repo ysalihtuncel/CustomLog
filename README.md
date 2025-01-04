@@ -15,7 +15,7 @@ The Custom Log System for Unity allows you to log messages in the Unity console 
 4. Configure the CustomLogSettings by setting the default log color and whether logging is enabled.
 
 ## CustomLogScriptable Configuration
-![Scriptable Object Image](https://raw.githubusercontent.com/ysalihtuncel/CustomLog/Resources/cover-image.png)
+![Scriptable Object Image](https://raw.githubusercontent.com/ysalihtuncel/CustomLog/main/Resources/cover-image.png)
 
 The `CustomLogScriptable` is a `ScriptableObject` that holds the configuration for the *Custom Log System*. This object allows you to manage the log settings globally across your Unity project. The settings it contains determine the behavior of the logging system, including whether logs are shown, their appearance, and additional information like timestamps or caller info.
 
